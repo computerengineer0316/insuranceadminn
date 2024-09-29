@@ -1,0 +1,122 @@
+{
+    "motor": [
+        {
+            "label": "Sr#"
+        },
+        {
+            "label": "Plan Name (comprehensive_plans)"
+        },
+        {
+            "label": "Plan Name (TPL)"
+        },
+        {
+            "label": "Type of Vehicle (comprehensive_plans)"
+        },
+        {
+            "label": "Type of Vehicle (TPL)"
+        },
+        {
+            "label": "Insurance Company"
+        },
+        {
+            "label": "Policy Rate (comprehensive_plans)"
+        },
+        {
+            "label": "Policy Rate (TPL)"
+        }
+    ],
+    "yacht": [
+        {
+            "label": "Sr#"
+        },
+        {
+            "label": "Plan Name (comprehensive_plans)"
+        },
+        {
+            "label": "Plan Name (TPL)"
+        },
+        {
+            "label": "Type of Vehicle (comprehensive_plans)"
+        },
+        {
+            "label": "Type of Vehicle (TPL)"
+        },
+        {
+            "label": "Insurance Company"
+        },
+        {
+            "label": "Policy Rate (comprehensive_plans)"
+        },
+        {
+            "label": "Policy Rate (TPL)"
+        }
+    ],
+    "home": [
+        {
+            "label": "Sr#"
+        },
+        {
+            "label": "Plan Name"
+        },
+        {
+            "label": "Type of Vehicle"
+        },
+        {
+            "label": "Insurance Company"
+        },
+        {
+            "label": "Policy Rate"
+        }
+    ],
+    "medical": [
+        {
+            "label": "SR No"
+        },
+        {
+            "label": "Company"
+        },
+        {
+            "label": "Plan Name"
+        },
+        {
+            "label": "Male Premium"
+        },
+        {
+            "label": "Female Premium"
+        },
+        {
+            "label": "Married Female Premium"
+        }
+    ],
+    "travel": [
+        {
+            "label": "SR No"
+        },
+        {
+            "label": "Insurance Company"
+        },
+        {
+            "label": "Plan Name"
+        },
+        {
+            "label": "Cover Type"
+        },
+        {
+            "label": "Days"
+        },
+        {
+            "label": "Premium"
+        }
+    ],
+    "all": [
+        {
+            "label": "SR No"
+        },
+        {
+            "label": "Line Of Business"
+        },
+        {
+            "label": "Action"
+        }
+    ]
+}
