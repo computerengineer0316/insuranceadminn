@@ -94,7 +94,7 @@ const Login = () => {
                   </div>
                   <div className="slide-content">
                     <h2>Last Minute Policy</h2>
-                    <p>Powered by Joie de Vivre International Insurance Brokerage LLC, regulated by the UAE Insurance Authority</p>
+                    <p>Powered by Test</p>
                   </div>
                 </div>
               </div>
